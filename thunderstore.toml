@@ -7,7 +7,7 @@ namespace = "ReadEmAndWeep"
 name = "Save_Saver"
 versionNumber = "1.0.0"
 description = "Mod designed for those who have bricked their save file by cheating in resources and completing story incantations early."
-websiteUrl = "https://github.com/Read-Em-And-Weep/NightmareFear"
+websiteUrl = "https://github.com/Read-Em-And-Weep/SaveSaver"
 containsNsfwContent = false
 
 [package.dependencies]
@@ -37,9 +37,9 @@ source = "./src"
 target = "./plugins"
 
 # Uncomment (remove the #) the three lines below if you have any files to copy to the plugins_data folder (like custom .pkg files)
-[[build.copy]]
-source = "./data"
-target = "./plugins_data"
+# [[build.copy]]
+# source = "./data"
+# target = "./plugins_data"
 
 
 [publish]
