@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Rewrote to use base game functions, for greater compatibility
+
 ## [1.0.1] - 2026-04-14
 
 - Made description more clear
