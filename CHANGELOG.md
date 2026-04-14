@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Made description more clear
+- Fixed an oversight that required you to have previously cleared the game to unbrick your game and allow you to clear it
+
 ### Added
 
 - First version of the mod!
